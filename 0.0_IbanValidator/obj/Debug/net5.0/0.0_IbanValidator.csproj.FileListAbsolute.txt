@@ -1,0 +1,5 @@
+/home/ilkay/Desktop/Coding/Languages/C#/0.4_WebScraping/0.0_IbanValidator/obj/Debug/net5.0/0.0_IbanValidator.csprojAssemblyReference.cache
+/home/ilkay/Desktop/Coding/Languages/C#/0.4_WebScraping/0.0_IbanValidator/obj/Debug/net5.0/0.0_IbanValidator.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilkay/Desktop/Coding/Languages/C#/0.4_WebScraping/0.0_IbanValidator/obj/Debug/net5.0/0.0_IbanValidator.AssemblyInfoInputs.cache
+/home/ilkay/Desktop/Coding/Languages/C#/0.4_WebScraping/0.0_IbanValidator/obj/Debug/net5.0/0.0_IbanValidator.AssemblyInfo.cs
+/home/ilkay/Desktop/Coding/Languages/C#/0.4_WebScraping/0.0_IbanValidator/obj/Debug/net5.0/0.0_IbanValidator.csproj.CoreCompileInputs.cache
